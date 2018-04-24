@@ -12,7 +12,7 @@ The curicullum consist of 3 stages with one project where student build Restaura
 ''''
 
 === link:https://classroom.udacity.com/nanodegrees/nd024/parts/0bf842e9-7269-42de-b68b-812ca7823517[Stage 1: Accessible and Responsive Web Apps]
-Due on: June 12th 2018
+Due on: June 12th 2018 +
 Estimated time: 51 days
 
 Work with instructors step-by-step to build a responsive web app that functions on any device or screen size. Ensure your web apps meet the highest development by achieving accessibility standards. Blending theory and practice, you'll learn how to build great apps to be mobile-first.
@@ -37,7 +37,8 @@ link:ch215.asciidoc[Chapter 2.15] : The Benefist of Offline First +
 link:ch216.asciidoc[Chapter 2.16] : Introducing the Service Worker +
 link:ch217.asciidoc[Chapter 2.17] : Project: Restaurant Review App - Stage 1 +
 
-=== Stage 2 - Due on:
-link:https://classroom.udacity.com/nanodegrees/nd024/parts/509a9a38-0c91-422a-a0b9-f12dccf9a2c9[Dynamic and Offline Capable Web Apps]
+=== link:https://classroom.udacity.com/nanodegrees/nd024/parts/509a9a38-0c91-422a-a0b9-f12dccf9a2c9[Stage 2: Dynamic and Offline Capable Web Apps]
+Due on: 
+Estimated time: 
 
 ''''
