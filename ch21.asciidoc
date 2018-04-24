@@ -10,34 +10,49 @@ toc::[]
 
 == 2.1: Why Responsive? 
 Instructor: +
-1. Pete Lepage - Developer Advocate at Google +
-2. Cameron Pittman - Front End Course Developer at Udacity +
+1. Pete Lepage - _Developer Advocate at Google_ +
+2. Cameron Pittman - _Front End Course Developer at Udacity_ +
 
-Website like Google News looks good on any device by using 2 strategies: +
-*A fully responsive version for phone and tablets
-*A responsive layouts that start at minimum size for desktop version
+Website like Google News looks good on any device by using 2 strategies:
+
+* A fully responsive version for phone and tablets
+
+* A responsive layouts that start at minimum size for desktop version
+
 This strategy works well for Google but add a layer of complexity and extra work to keep things up to date. +
 A website like Skinny Ties is fully responsive accross all devices. This is a preferred way to build website because it adapt to change in the future.+
 
 Simulator
+
 * Emulator built into Chrome Developer Tool
+
 * iOS Simulator
+
 * BrowserStack (Cloud base simulator)
 
-Where is user agent string? +
+
+`Question`: Where is user agent string? +
 
 Testing in real device is important. Here is how to set up remote debugging in Chrome for Android:
-.Prepare the android device, USB connection cable and development machine.
-.Turn Developer mode in Android device. It may be diffent on any given device, check out the device manual for instruction. In many cases, it will be:
-* Go to device's _Setting_ | _About Device_ and click _Build Number_ 7 times.
-.Next, turn on USB Debugging. It varies on any given device, but usually located in _Developer options_ then check mark USB Debugging to allow USB debugging mode.
-.Install Chrome Canary in desktop and Chrome Beta in mobile device.
-.Open chrome://inspect in Chrome Canary and open the site that want to be debugged on mobile device
-.Connect the laptop and mobile device via USB cable.
-.Turn on toggle device toolbar to activate screen inpection tool.
+
+* Prepare the android device, USB connection cable and development machine.
+
+* Turn Developer mode in Android device. It may be diffent on any given device, check out the device manual for instruction. In many cases, it will be: Go to device's _Setting_ | _About Device_ and click _Build Number_ 7 times.
+
+* Next, turn on USB Debugging. It varies on any given device, but usually located in _Developer options_ then check mark USB Debugging to allow USB debugging mode.
+
+* Install Chrome Canary in desktop and Chrome Beta in mobile device if it is not available yet.
+
+* Open _chrome://inspect_ in Chrome Canary and open the site that want to be debugged on mobile device.
+
+* Connect the laptop and mobile device via USB cable.
+
+* Turn on toggle device toolbar to activate screen inspection tool.
+
 
 Links:
-*link:https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging[Remote Debugging on Android with Chrome
+
+* link:https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging[Remote Debugging on Android with Chrome
 ]
 
 It is also possible to do this in mobile Safari with Web Inspector using the link:https://github.com/google/ios-webkit-debug-proxy[iOS WebKit Debug Proxy] 
