@@ -13,9 +13,9 @@ Instructor: +
 1. Pete Lepage - Developer Advocate at Google +
 2. Cameron Pittman - Front End Course Developer at Udacity +
 
-Website like Google News looks good on any device by using 2 strategies:
-* A fully responsive version for phone and tablets
-* A responsive layouts that start at minimum size for desktop version
+Website like Google News looks good on any device by using 2 strategies: +
+*A fully responsive version for phone and tablets
+*A responsive layouts that start at minimum size for desktop version
 This strategy works well for Google but add a layer of complexity and extra work to keep things up to date. +
 A website like Skinny Ties is fully responsive accross all devices. This is a preferred way to build website because it adapt to change in the future.+
 
