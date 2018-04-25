@@ -1,0 +1,13 @@
+== 2.2: Starting Small 
+
+______________________________________________________________________________________________________________________________
+This chapter explains the specifics of how pixels on a webpage are rendered and how that impacts the development process.
+______________________________________________________________________________________________________________________________
+
+In this lesson, we will how to optimize web pages for different sizes.
+
+=== Setting the Viewport
+++++
+<meta name="viewport content="width=width-device, initial-scale=1"> 
+++++
+
