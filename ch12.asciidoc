@@ -7,7 +7,16 @@ ________________________________________________________________________________
 In this lesson, we will how to optimize web pages for different sizes.
 
 === Setting the Viewport
-++++
-<meta name="viewport content="width=width-device, initial-scale=1"> 
-++++
 
+```
+<meta name="viewport content="width=width-device, initial-scale=1"> 
+```
+
+Use relative width such as width=100%
+
+Recommend to set image's or other object's max-width=100% in main CSS 
+```
+img, embed, object, video {
+  max-width: 100%;
+}
+```
