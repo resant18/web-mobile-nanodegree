@@ -63,10 +63,3 @@ Links:
 
 It is also possible to do this in mobile Safari with Web Inspector using the link:https://github.com/google/ios-webkit-debug-proxy[iOS WebKit Debug Proxy] 
 
-== 2.2: Starting Small 
-
-______________________________________________________________________________________________________________________________
-This chapter explains the specifics of how pixels on a webpage are rendered and how that impacts the development process.
-______________________________________________________________________________________________________________________________
-
-In this lesson, we will how to optimize web pages for different sizes 
