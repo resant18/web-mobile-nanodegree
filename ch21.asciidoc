@@ -4,14 +4,20 @@
 
 = Udacity Web Mobile Specialist Nanodegree Part 1: Accessible & Responsive Web Apps
 
+Instructor: +
+1. Pete Lepage - _Developer Advocate at Google_ +
+2. Cameron Pittman - _Front End Course Developer at Udacity_ +
+
+
 Click link:README.asciidoc[here] to see the syllabus.
 
 toc::[]
 
 == 2.1: Why Responsive? 
-Instructor: +
-1. Pete Lepage - _Developer Advocate at Google_ +
-2. Cameron Pittman - _Front End Course Developer at Udacity_ +
+
+______________________________________________________________________________________________________________________________
+This chapter explains why responsive design is so important and helps to set up our development environment.
+______________________________________________________________________________________________________________________________
 
 Website like Google News looks good on any device by using 2 strategies:
 
@@ -20,7 +26,7 @@ Website like Google News looks good on any device by using 2 strategies:
 * A responsive layouts that start at minimum size for desktop version
 
 This strategy works well for Google but add a layer of complexity and extra work to keep things up to date. +
-A website like Skinny Ties is fully responsive accross all devices. This is a preferred way to build website because it adapt to change in the future.+
+A website like Skinny Ties is fully responsive accross all devices. This is a preferred way to build website because it adapt to change in the future.
 
 Simulator
 
@@ -56,3 +62,11 @@ Links:
 ]
 
 It is also possible to do this in mobile Safari with Web Inspector using the link:https://github.com/google/ios-webkit-debug-proxy[iOS WebKit Debug Proxy] 
+
+== 2.2: Starting Small 
+
+______________________________________________________________________________________________________________________________
+This chapter explains the specifics of how pixels on a webpage are rendered and how that impacts the development process.
+______________________________________________________________________________________________________________________________
+
+In this lesson, we will how to optimize web pages for different sizes 
