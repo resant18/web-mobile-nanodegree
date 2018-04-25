@@ -13,7 +13,7 @@ Click link:README.asciidoc[here] to see the syllabus.
 
 toc::[]
 
-== 2.1: Why Responsive? 
+== 1.1: Why Responsive? 
 
 ______________________________________________________________________________________________________________________________
 This chapter explains why responsive design is so important and helps to set up our development environment.
